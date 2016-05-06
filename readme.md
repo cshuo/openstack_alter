@@ -5,6 +5,9 @@
 - **..nova/api/openstack/compute/servers.py** <br>
 add vm type store to mysql db
 
+- **..nova/api/openstack/compute/schemas/servers.py** <br>
+add request paramenter: app_type to openstack api
+
 - **..nova/api/openstack/compute/db** <br>
 db operation using sqlalchemy
 
